@@ -14,3 +14,6 @@ This requires you to enable 'Open new SC' as well as set a  default skill to use
 * open - Toggle whether or not the set WS should be used to open fresh SCs when no SC effect is already present.
 
 With these three values set, you can fire off solo skill chains and join in on others.
+
+<img width="488" alt="image" src="https://github.com/Shockii/FFXI-AutoSC/assets/41841794/5f500941-5cd8-46df-aaff-0cf96070b0de">
+
