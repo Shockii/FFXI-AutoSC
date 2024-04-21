@@ -17,3 +17,4 @@ With these three values set, you can fire off solo skill chains and join in on o
 
 <img width="488" alt="image" src="https://github.com/Shockii/FFXI-AutoSC/assets/41841794/5f500941-5cd8-46df-aaff-0cf96070b0de">
 
+The Version with 'RND' is a randomized value between the set 'OpenTP' value you set and 3000. 
